@@ -2,18 +2,14 @@
 
 Customer Login and register  implementation using Frontend with Reactjs, backend with Spring boot(rest api, spring security) and database with Mongodb.To run the app
 
-# Run Springboot_Code:-
-To run
-
+# To Run SpringBoot_Code:-
 mvn clean install
 
 mvn spring-boot:run
 
 
 
-# Run front-end
-To run
-
+# To Run front-end
 npm install
 
 npm start
