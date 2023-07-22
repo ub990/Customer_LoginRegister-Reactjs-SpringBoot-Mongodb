@@ -1,4 +1,4 @@
-<img width="1440" alt="image" src="https://github.com/ub990/Customer_LoginRegister-Reactjs-SpringBoot-Mongodb/assets/65628589/eb16afff-d4ae-4fdd-b3ab-bac8a6598717"># Customer_LoginRegister-Reactjs-SpringBoot-Mongodb
+# Customer_LoginRegister-Reactjs-SpringBoot-Mongodb
 
 Customer Login and register  implementation using Frontend with Reactjs, backend with Spring boot(rest api, spring security) and database with Mongodb.To run the app
 
