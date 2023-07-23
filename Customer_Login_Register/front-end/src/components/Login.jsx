@@ -9,7 +9,7 @@ function Login() {
     const navigate = useNavigate();
     const [errorMessages, setErrorMessages] = useState({});
     const errors = {
-      uname: "Username not exist",
+      uname: "Username does not exist",
       pass: "Invalid Password"
     };    
     function renderErrorMessage(name) {
