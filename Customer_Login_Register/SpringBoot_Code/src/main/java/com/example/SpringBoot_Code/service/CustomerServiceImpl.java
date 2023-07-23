@@ -74,7 +74,7 @@ public class CustomerServiceImpl implements CustomerService {
                 return new LoginMesage("password Not Match", false);
             }
         }else {
-            return new LoginMesage("Username not exits", false);
+            return new LoginMesage("Username not exist", false);
         }
         }
         else {
